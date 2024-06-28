@@ -6,6 +6,7 @@
 #include "esp_intr_alloc.h"
 #include "soc/dport_reg.h"
 #include "driver/gpio.h"
+#include "esp32/rom/gpio.h"
 
 #include "ESP32SJA1000.h"
 
